@@ -20,13 +20,13 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">⚔️ Offensive Capabilities</h2>
-🔴 **Network Penetration Testing** & Vulnerability Assessment  
-📡 **Wireless Security Auditing** & Protocol Analysis (Aircrack-ng, Bettercap)  
-🕵️ **OSINT & Reconnaissance** (theHarvester, Maltego, Sherlock, PeekYou)  
-🎭 **Social Engineering Simulations** (SET, Phishing Frameworks)  
-🚀 **Exploitation & Payload Development** (Metasploit, msfvenom, Quasar)  
-📊 **Traffic Analysis & MITM** (Wireshark, Bettercap)  
-🖥️ **System Administration** (Linux/Kali, Windows, Lab/VM Environments)  
+- 🔴 Network Penetration Testing & Vulnerability Assessment
+- 📡 Wireless Security Auditing & Protocol Analysis (Aircrack-ng, Bettercap)
+- 🕵️ OSINT & Reconnaissance (theHarvester, Maltego, Sherlock, PeekYou)
+- 🎭 Social Engineering Simulations (SET, Phishing Frameworks)
+- 🚀 Exploitation & Payload Development (Metasploit, msfvenom, Quasar)
+- 📊 Traffic Analysis & MITM (Wireshark, Bettercap)
+- 🖥️ System Administration (Linux/Kali, Windows, Lab/VM Environments)
 
 ---
 
@@ -50,18 +50,18 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">📚 Active Development</h2>
-🔹 Advanced Exploitation Techniques & Privilege Escalation  
-🔹 Web Application Security & OWASP Top 10  
-🔹 Active Directory Attacks & Enterprise Pentesting  
-🔹 TryHackMe Paths: Networking, Linux, Offensive Security Fundamentals  
+- 🔹 Advanced Exploitation Techniques & Privilege Escalation
+- 🔹 Web Application Security & OWASP Top 10
+- 🔹 Active Directory Attacks & Enterprise Pentesting
+- 🔹 TryHackMe Paths: Networking, Linux, Offensive Security Fundamentals
 
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">🎯 Mission Objectives</h2>
-🚀 Transition into a professional Penetration Tester role  
-🧠 Master end-to-end Red Team operations & threat simulation  
-🏆 Compete in CTF competitions & bug bounty programs  
-🛠️ Develop custom automation tools & exploit frameworks  
+- 🚀 Transition into a professional Penetration Tester role
+- 🧠 Master end-to-end Red Team operations & threat simulation
+- 🏆 Compete in CTF competitions & bug bounty programs
+- 🛠️ Develop custom automation tools & exploit frameworks
 
 ---
 
