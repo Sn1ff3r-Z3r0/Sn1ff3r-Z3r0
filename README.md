@@ -1,112 +1,148 @@
+<pre align="center">
+<span style="color:#00ff00">┌────────────────────────────────────────────────────┐</span>
+<span style="color:#00ff00">│</span>  <span style="color:#00ff00;font-weight:bold">moamen@redteam:~$</span> ./init_profile.sh --user=moamenmahmoud  <span style="color:#00ff00">│</span>
+<span style="color:#00ff00">└────────────────────────────────────────────────────┘</span>
+</pre>
+
 <div align="center">
 
-# 🔐 Moamen Mahmoud
-### Red Team Operator | Penetration Tester | Threat Simulator
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&center=true&vCenter=true&width=550&lines=🔴+Red+Team+Operations;🎯+Vulnerability+Research;🛡️+Ethical+Hacking;⚡+Python+%26+Bash+Automation" alt="Animated Header" />
+<!-- Terminal Typing Animation - Lightweight & Reliable -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=00ff00&center=true&vCenter=true&width=500&height=60&lines=%24+whoami;moamen_mahmoud_redteam;%24+role;Red+Team+Operator;%24+specialization;Pentesting+%7C+OSINT+%7C+Exploit+Dev" alt="Terminal Typing" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamen-mahmoud-995506392/)
-[![Outlook](https://img.shields.io/badge/📧_Outlook-moamen134777-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:moamen134777@outlook.com)
-[![Gmail](https://img.shields.io/badge/📧_Gmail-moamen13477-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moamen13477@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamen-mahmoud-995506392/)
+[![Outlook](https://img.shields.io/badge/📧_outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:moamen134777@outlook.com)
+[![Gmail](https://img.shields.io/badge/📧_gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moamen13477@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Professional Profile
-> Cybersecurity Red Teamer with **7+ months** of intensive hands-on experience in penetration testing and adversarial simulation. Specialized in executing full-spectrum attack lifecycles — from OSINT-driven reconnaissance to post-exploitation persistence — within controlled lab environments.
+<pre style="background:#0d1117;color:#00ff00;padding:16px;border-radius:8px;overflow-x:auto;font-family:'JetBrains Mono','Fira Code',monospace;font-size:13px">
+<span style="color:#58a6ff">##</span> <span style="color:#00ff00;font-weight:bold">[+] ABOUT</span>
+<span style="color:#8b949e">┌─</span><span style="color:#00ff00"> moamen@kali </span><span style="color:#8b949e">─[</span><span style="color:#00ff00">~</span><span style="color:#8b949e">]</span><span style="color:#00ff00">$</span> cat about.txt
 
-✅ **Core Competencies**
-- Network & Wireless Penetration Testing (`Nmap`, `Aircrack-ng`, `Bettercap`)
-- Vulnerability Assessment & Exploitation (`Metasploit`, `Burp Suite`)
-- OSINT Gathering & Reconnaissance Automation
-- Social Engineering Simulations (`SET`, phishing frameworks)
-- Traffic Analysis & Protocol Inspection (`Wireshark`)
-- Password Auditing & Hash Cracking (`Hashcat`)
+<span style="color:#00ff00">Cybersecurity Red Teamer</span> | 7+ months hands-on penetration testing
+Specializing in <span style="color:#ff7b72">full attack lifecycle execution</span>:
 
-✅ **Technical Foundation**
-- Linux/Windows System Administration
-- TCP/IP Networking & Security Protocols
-- Common Vulnerabilities (OWASP Top 10, CVE analysis)
-- Scripting for Automation & Tooling Enhancement
+  [✓] Reconnaissance & OSINT Automation
+  [✓] Network/Wireless Vulnerability Assessment  
+  [✓] Exploitation via Metasploit, Burp, Custom Scripts
+  [✓] Post-Exploitation & Lateral Movement
+  [✓] Technical Reporting & Risk Communication
 
----
+Tools: <span style="color:#79c0ff">Metasploit</span> • <span style="color:#79c0ff">Nmap</span> • <span style="color:#79c0ff">Wireshark</span> • <span style="color:#79c0ff">Bettercap</span> • <span style="color:#79c0ff">Aircrack-ng</span> • <span style="color:#79c0ff">SET</span> • <span style="color:#79c0ff">Hashcat</span>
 
-## 🧰 Offensive Security Stack
-<div align="center">
-
-| 🐍 Development | 🐚 Automation | 🛠️ Offensive Tools |
-|---------------|---------------|-------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white) |
-| | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-414753?style=flat&logo=nmap&logoColor=white) |
-| | | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| | | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) |
-| | | ![Bettercap](https://img.shields.io/badge/Bettercap-5C4EE5?style=flat&logoColor=white) |
-| | | ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-262A30?style=flat&logoColor=white) |
-| | | ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat&logoColor=white) |
-
-</div>
+<span style="color:#8b949e">└─</span><span style="color:#00ff00"> EOF </span><span style="color:#8b949e">─</span>
+</pre>
 
 ---
 
-## 🌐 Platform Ecosystem
-<div align="center">
+<pre style="background:#0d1117;color:#00ff00;padding:16px;border-radius:8px;overflow-x:auto;font-family:'JetBrains Mono','Fira Code',monospace;font-size:13px">
+<span style="color:#58a6ff">##</span> <span style="color:#00ff00;font-weight:bold">[+] SKILL MATRIX</span>
+<span style="color:#8b949e">┌─</span><span style="color:#00ff00"> moamen@kali </span><span style="color:#8b949e">─[</span><span style="color:#00ff00">~/skills</span><span style="color:#8b949e">]</span><span style="color:#00ff00">$</span> ./scan_capabilities.py
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<span style="color:#ff7b72">[LANGUAGES]</span>
+  ████░░░░░░  <span style="color:#79c0ff">Python</span>      90%  <span style="color:#8b949e"># Automation, Exploits, Tooling</span>
+  █░░░░░░░░░  <span style="color:#79c0ff">Bash</span>        10%  <span style="color:#8b949e"># System Ops, Quick Scripts</span>
 
-</div>
+<span style="color:#ff7b72">[PLATFORMS]</span>
+  <span style="color:#79c0ff">■</span> Linux (Kali, Ubuntu, Parrot)
+  <span style="color:#79c0ff">■</span> Windows (Admin, AD Basics)
+  <span style="color:#79c0ff">■</span> Docker (Containerized Labs)
+
+<span style="color:#ff7b72">[OFFENSIVE TOOLS]</span>
+  <span style="color:#79c0ff">✓</span> Metasploit Framework  <span style="color:#8b949e"># Exploitation</span>
+  <span style="color:#79c0ff">✓</span> Nmap                  <span style="color:#8b949e"># Discovery</span>
+  <span style="color:#79c0ff">✓</span> Wireshark             <span style="color:#8b949e"># Analysis</span>
+  <span style="color:#79c0ff">✓</span> Burp Suite            <span style="color:#8b949e"># Web Testing</span>
+  <span style="color:#79c0ff">✓</span> Bettercap             <span style="color:#8b949e"># MITM</span>
+  <span style="color:#79c0ff">✓</span> Aircrack-ng           <span style="color:#8b949e"># Wireless</span>
+  <span style="color:#79c0ff">✓</span> Hashcat               <span style="color:#8b949e"># Password Auditing</span>
+
+<span style="color:#8b949e">└─</span><span style="color:#00ff00"> Scan Complete: 7/7 modules loaded </span><span style="color:#8b949e">─</span>
+</pre>
 
 ---
 
-## 📈 Activity Snapshot
+<pre style="background:#0d1117;color:#00ff00;padding:16px;border-radius:8px;overflow-x:auto;font-family:'JetBrains Mono','Fira Code',monospace;font-size:13px">
+<span style="color:#58a6ff">##</span> <span style="color:#00ff00;font-weight:bold">[+] GITHUB METRICS</span>
+<span style="color:#8b949e">┌─</span><span style="color:#00ff00"> moamen@kali </span><span style="color:#8b949e">─[</span><span style="color:#00ff00">~/stats</span><span style="color:#8b949e">]</span><span style="color:#00ff00">$</span> fetch_github_data --user=moamenmahmoud
+
+<span style="color:#ff7b72">[LANGUAGE BREAKDOWN]</span>
+  <span style="color:#79c0ff">🐍 Python</span>  ████████████████████  90%
+  <span style="color:#79c0ff">🐚 Bash</span>    ████                   10%
+
+<span style="color:#ff7b72">[ACTIVITY]</span>
+  <span style="color:#79c0ff">★</span> Repositories: <span style="color:#00ff00">[Live on GitHub]</span>
+  <span style="color:#79c0ff">★</span> Contributions: <span style="color:#00ff00">[Check Profile]</span>
+  <span style="color:#79c0ff">★</span> Followers: <span style="color:#00ff00">[Growing Network]</span>
+
+<span style="color:#8b949e">└─</span><span style="color:#00ff00"> Tip: Visit github.com/moamenmahmoud for live stats </span><span style="color:#8b949e">─</span>
+</pre>
+
+---
+
+<pre style="background:#0d1117;color:#00ff00;padding:16px;border-radius:8px;overflow-x:auto;font-family:'JetBrains Mono','Fira Code',monospace;font-size:13px">
+<span style="color:#58a6ff">##</span> <span style="color:#00ff00;font-weight:bold">[+] CURRENT OPERATIONS]</span>
+<span style="color:#8b949e">┌─</span><span style="color:#00ff00"> moamen@kali </span><span style="color:#8b949e">─[</span><span style="color:#00ff00">~/ops</span><span style="color:#8b949e">]</span><span style="color:#00ff00">$</span> cat active_projects.list
+
+<span style="color:#ff7b72">[ACTIVE]</span>
+  > Discord Security Bot Development
+  > Hardware Monitoring & Threat Detection Tool
+  > CTF Writeups & Technique Documentation
+
+<span style="color:#ff7b72">[LEARNING]</span>
+  > Advanced AD Exploitation
+  > Cloud Security (AWS/Azure)
+  > Reverse Engineering Basics
+
+<span style="color:#ff7b72">[GOALS]</span>
+  > eJPT / OSCP Certification
+  > Build Open-Source Red Team Toolkit
+  > Contribute to Security Community
+
+<span style="color:#8b949e">└─</span><span style="color:#00ff00"> Status: All systems operational </span><span style="color:#8b949e">─</span>
+</pre>
+
+---
+
+<pre style="background:#0d1117;color:#00ff00;padding:16px;border-radius:8px;overflow-x:auto;font-family:'JetBrains Mono','Fira Code',monospace;font-size:13px">
+<span style="color:#58a6ff">##</span> <span style="color:#00ff00;font-weight:bold">[+] CONNECT]</span>
+<span style="color:#8b949e">┌─</span><span style="color:#00ff00"> moamen@kali </span><span style="color:#8b949e">─[</span><span style="color:#00ff00">~</span><span style="color:#8b949e">]</span><span style="color:#00ff00">$</span> echo "Let's collaborate" | send_contact
+
+<span style="color:#79c0ff">[SOCIAL]</span>
+  🔗 LinkedIn: https://www.linkedin.com/in/moamen-mahmoud-995506392/
+
+<span style="color:#79c0ff">[EMAIL]</span>
+  📧 Outlook: moamen134777@outlook.com
+  📧 Gmail:   moamen13477@gmail.com
+
+<span style="color:#79c0ff">[PREFERRED]</span>
+  > Professional inquiries → LinkedIn
+  > Technical collaboration → Either email
+  > CTF/Red Team discussions → LinkedIn DM
+
+<span style="color:#8b949e">└─</span><span style="color:#00ff00"> Connection established ✓ </span><span style="color:#8b949e">─</span>
+</pre>
+
+---
+
 <div align="center">
 
-> *GitHub stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-<!-- Fallback design if API image fails to load -->
-<table>
-  <tr>
-    <td align="center">
-      <strong>📊 Profile Metrics</strong><br/>
-      <sub>Stars • Followers • Contributions</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Dynamic_Stats-Check_GitHub-blue?style=for-the-badge" alt="Stats" />
-    </td>
-    <td align="center">
-      <strong>💻 Language Distribution</strong><br/>
-      <sub>Based on public repositories</sub><br/><br/>
-      <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge" alt="Python" />
-      <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge" alt="Bash" />
-    </td>
-  </tr>
-</table>
+<pre style="background:#0d1117;color:#00ff00;padding:12px;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:12px">
+<span style="color:#8b949e">┌──────────────────────────────────────┐</span>
+<span style="color:#8b949e">│</span>  <span style="color:#00ff00">👁️ Profile Views:</span> 
+<span style="color:#8b949e">│</span>  <img src="https://komarev.com/ghpvc/?username=moamenmahmoud&color=00ff00&style=flat-square&label=" alt="views" />
+<span style="color:#8b949e">│</span>
+<span style="color:#8b949e">│</span>  <span style="color:#00ff00">🛡️ "Break it to fix it"</span>
+<span style="color:#8b949e">│</span>  <span style="color:#8b949e">Ethical Hacking | Continuous Learning</span>
+<span style="color:#8b949e">└──────────────────────────────────────┘</span>
+</pre>
 
 <br/>
 
-<!-- Live stats (will render if API is reachable) -->
-<img src="https://github-readme-stats.vercel.app/api?username=moamenmahmoud&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
+<sub><span style="color:#8b949e">Last sync: $(date) | 🔐 Red Team Ready | moamenmahmoud</span></sub>
 
 </div>
-
----
-
-## 🏆 Recognition & Milestones
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moamenmahmoud&theme=github_dark&row=1&column=5&hide_border=true&no-bg=true" alt="Trophies" onerror="this.alt='🏆 Trophies: Visit GitHub to view achievements'"/>
-
-</div>
-
----
-
-## 🔍 Current Focus Areas
-```diff
-+ 🔴 Adversary Emulation & Red Team Methodologies
-+ 📡 Wireless Attack Vectors & Protocol Exploitation
-+ 🕵️ OSINT Tooling & Automated Reconnaissance Pipelines
-+ 🎭 Phishing Simulation Frameworks & User Awareness Testing
-+ 🚀 Post-Exploitation Techniques & Lateral Movement Strategies
-+ 📝 Technical Reporting & Executive-Level Risk Communication
