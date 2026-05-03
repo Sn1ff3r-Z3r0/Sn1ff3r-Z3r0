@@ -1,4 +1,9 @@
 <!-- Your GitHub profile README -->
+<style>
+  .neon-header { color: #00ff00; text-shadow: 0 0 8px #00ff00, 0 0 16px #00ff00; font-weight: 700; }
+  .glow-container { background: #0d1117; border: 1px solid #00ff0033; border-radius: 8px; padding: 14px; box-shadow: 0 0 12px rgba(0, 255, 0, 0.15); }
+</style>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00ff00&center=true&vCenter=true&width=460&lines=>+SYSTEM+BOOT+COMPLETE...;>+IDENTITY:+MOAMEN+MAHMOUD;>+ROLE:+RED+TEAM+OPERATOR;>+STATUS:+OPERATIONAL&cursor=true&cursorColor=00ff00" alt="Hacker Init Animation" />
 </p>
@@ -14,12 +19,12 @@
 
 ---
 
-## 🛡️ Profile Brief
+<h2 class="neon-header">🛡️ Profile Brief</h2>
 Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration testing experience. Specialized in executing full-spectrum attack lifecycles—from OSINT-driven reconnaissance to post-exploitation—using industry-standard frameworks. Methodical, analytical, and focused on ethical hacking to strengthen system defenses against evolving threats.
 
 ---
 
-## ⚔️ Offensive Capabilities
+<h2 class="neon-header">⚔️ Offensive Capabilities</h2>
 🔴 **Network Penetration Testing** & Vulnerability Assessment  
 📡 **Wireless Security Auditing** & Protocol Analysis (Aircrack-ng, Bettercap)  
 🕵️ **OSINT & Reconnaissance** (theHarvester, Maltego, Sherlock, PeekYou)  
@@ -30,8 +35,8 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-## 🧰 Offensive Arsenal
-<p align="center">
+<div class="glow-container" align="center">
+  <h2 class="neon-header" style="margin-top:0; margin-bottom:12px;">🧰 Offensive Arsenal</h2>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
@@ -45,11 +50,11 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
   <img src="https://img.shields.io/badge/-Bettercap-5C4EE5?style=flat&logoColor=white" alt="Bettercap"/>
   <img src="https://img.shields.io/badge/-Aircrack--ng-262A30?style=flat&logoColor=white" alt="Aircrack-ng"/>
   <img src="https://img.shields.io/badge/-Hashcat-000000?style=flat&logoColor=white" alt="Hashcat"/>
-</p>
+</div>
 
 ---
 
-## 📚 Active Development
+<h2 class="neon-header">📚 Active Development</h2>
 🔹 Advanced Exploitation Techniques & Privilege Escalation  
 🔹 Web Application Security & OWASP Top 10  
 🔹 Active Directory Attacks & Enterprise Pentesting  
@@ -57,7 +62,7 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-## 🎯 Mission Objectives
+<h2 class="neon-header">🎯 Mission Objectives</h2>
 🚀 Transition into a professional Penetration Tester role  
 🧠 Master end-to-end Red Team operations & threat simulation  
 🏆 Compete in CTF competitions & bug bounty programs  
@@ -65,29 +70,19 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-## 📈 GitHub Snapshot
-<p align="center">
+<div class="glow-container" align="center">
+  <h2 class="neon-header" style="margin-top:0; margin-bottom:12px;">📡 System Diagnostics</h2>
   <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <br/>
   <img src="https://img.shields.io/badge/✅_Status-Active-2ea44f?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/🔓_Visibility-Public-8250df?style=flat-square" alt="Visibility"/>
   <img src="https://img.shields.io/badge/🔄_Updates-Regular-007ACC?style=flat-square" alt="Updates"/>
-</p>
+</div>
 
 ---
 
-## 📜 Certifications & Training
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Beginner%20Paths%20Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/EDUX_Academy-Lab-Based%20Training-0078D4?style=for-the-badge" alt="EDUX Academy" />
-  <img src="https://img.shields.io/badge/eJPT-In%20Progress-00B4D8?style=for-the-badge" alt="eJPT" />
-  <img src="https://img.shields.io/badge/CompTIA_Sec%2B-Target-ED1D24?style=for-the-badge" alt="Security+" />
-</p>
-
----
-
-## 📡 Secure Channels
+<h2 class="neon-header">📡 Secure Channels</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-mahmoud-995506392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -102,7 +97,7 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-## 🔐 Core Philosophy
+<h2 class="neon-header">🔐 Core Philosophy</h2>
 > *"Break it. Understand it. Secure it."*
 
 <p align="center">
