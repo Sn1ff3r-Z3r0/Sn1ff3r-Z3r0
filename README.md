@@ -1,6 +1,21 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&speed=50&pause=1000&color=00ff00&center=true&vCenter=true&width=450&lines=This+is+a+great+string.;But+here+is+a+better+one.&cursor=true&cursorColor=00ff00" alt="Typing Animation" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 160" style="background:#0d1117; border-radius:10px; max-width:100%; box-shadow: 0 0 15px rgba(0,255,0,0.15);">
+    <rect x="2" y="2" width="496" height="156" rx="8" fill="none" stroke="#00ff00" stroke-width="2">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-width" values="1;2.5;1" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="250" y="48" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#00ff00" text-anchor="middle" font-weight="bold">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+      MOAMEN MAHMOUD
+    </text>
+    <text x="250" y="78" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#ffffff" text-anchor="middle">Cybersecurity Red Teamer | Penetration Tester</text>
+    <text x="250" y="103" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#8b949e" text-anchor="middle">📍 Helwan, Egypt | 📧 moamen13477@gmail.com | 📞 +20 155327 9025</text>
+    <text x="250" y="133" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#00cc00" text-anchor="middle">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+      🔐 "Break it. Understand it. Secure it."
+    </text>
+  </svg>
 </p>
 
 ---
@@ -22,8 +37,8 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 
 ---
 
-<div align="center" style="background:#0d1117; border:1px solid #00ff0040; border-radius:10px; padding:18px; margin:20px 0; box-shadow:0 0 12px rgba(0,255,0,0.12);">
-  <h2 style="color:#00ff00; font-weight:600; margin-top:0; margin-bottom:14px;">🧰 Offensive Arsenal</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">🧰 Offensive Arsenal</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
@@ -37,7 +52,7 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
   <img src="https://img.shields.io/badge/-Bettercap-5C4EE5?style=flat&logoColor=white" alt="Bettercap"/>
   <img src="https://img.shields.io/badge/-Aircrack--ng-262A30?style=flat&logoColor=white" alt="Aircrack-ng"/>
   <img src="https://img.shields.io/badge/-Hashcat-000000?style=flat&logoColor=white" alt="Hashcat"/>
-</div>
+</p>
 
 ---
 
@@ -59,20 +74,19 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 
 ---
 
-<div align="center" style="background:#0d1117; border:1px solid #00ff0040; border-radius:10px; padding:18px; margin:20px 0; box-shadow:0 0 12px rgba(0,255,0,0.12);">
-  <h2 style="color:#00ff00; font-weight:600; margin-top:0; margin-bottom:14px;">⚡ Primary Languages & Metrics</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">⚡ Primary Languages & Metrics</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <br/>
   <img src="https://img.shields.io/badge/✅_Status-Active-2ea44f?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/🔓_Visibility-Public-8250df?style=flat-square" alt="Visibility"/>
   <img src="https://img.shields.io/badge/🔄_Updates-Regular-007ACC?style=flat-square" alt="Updates"/>
-</div>
+</p>
 
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">📡 Secure Channels</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-mahmoud-995506392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -88,7 +102,6 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">🔐 Core Philosophy</h2>
-
 > *"Break it. Understand it. Secure it."*
 
 <p align="center">
