@@ -20,6 +20,7 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">⚔️ Offensive Capabilities</h2>
+
 - 🔴 Network Penetration Testing & Vulnerability Assessment
 - 📡 Wireless Security Auditing & Protocol Analysis (Aircrack-ng, Bettercap)
 - 🕵️ OSINT & Reconnaissance (theHarvester, Maltego, Sherlock, PeekYou)
@@ -50,6 +51,7 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">📚 Active Development</h2>
+
 - 🔹 Advanced Exploitation Techniques & Privilege Escalation
 - 🔹 Web Application Security & OWASP Top 10
 - 🔹 Active Directory Attacks & Enterprise Pentesting
@@ -58,6 +60,7 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">🎯 Mission Objectives</h2>
+
 - 🚀 Transition into a professional Penetration Tester role
 - 🧠 Master end-to-end Red Team operations & threat simulation
 - 🏆 Compete in CTF competitions & bug bounty programs
@@ -78,6 +81,7 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">📡 Secure Channels</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-mahmoud-995506392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -93,6 +97,7 @@ Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration test
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">🔐 Core Philosophy</h2>
+
 > *"Break it. Understand it. Secure it."*
 
 <p align="center">
