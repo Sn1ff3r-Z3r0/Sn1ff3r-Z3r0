@@ -1,12 +1,6 @@
 <!-- Your GitHub profile README -->
-<style>
-  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-  .cursor { animation: blink 1s step-end infinite; color: #00ff00; font-family: monospace; font-size: 20px; font-weight: bold; }
-</style>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile!;I'm+Moamen+Mahmoud;Cybersecurity+Red+Teamer;Helwan%2C+Egypt" alt="Typing SVG" />
-  <span class="cursor">█</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Moamen+Mahmoud;Cybersecurity+Red+Teamer&cursor=true&cursorColor=00ff00" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,8 +37,8 @@ Capable of executing full attack lifecycles, from reconnaissance and enumeration
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moamenmahmoud&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenmahmoud&layout=compact&theme=radical&langs_count=2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moamenmahmoud&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&cacheSeconds=3600" onerror="this.src='https://img.shields.io/badge/📊_GitHub_Stats-View_Repository-blue?style=for-the-badge'" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenmahmoud&layout=compact&theme=radical&langs_count=2&hide_border=true&cacheSeconds=3600" onerror="this.src='https://img.shields.io/badge/📊_Top_Langs-Python_90%25_%7C_Bash_10%25-2496ED?style=for-the-badge'" />
 </p>
 <p align="center">
   <sub>🐍 <b>Python:</b> 90%  |  🐚 <b>Bash/Shell:</b> 10%</sub>
@@ -52,7 +46,7 @@ Capable of executing full attack lifecycles, from reconnaissance and enumeration
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moamenmahmoud&theme=radical&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moamenmahmoud&theme=radical&row=1&column=6&hide_border=true" onerror="this.style.display='none'" alt="Trophies" />
 </p>
 
 ## 📫 Connect With Me
