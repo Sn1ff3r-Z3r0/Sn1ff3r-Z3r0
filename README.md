@@ -1,15 +1,6 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&width=480&lines=>+INITIALIZING+SECURE+SESSION...;>+OPERATIVE:+MOAMEN+MAHMOUD;>+CLEARANCE:+RED+TEAM;>+STATUS:+AUTHORIZED&cursor=true&cursorColor=00ff00" alt="Cyber Init Animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/moamenmahmoud?tab=repositories">
-    <img src="https://img.shields.io/github/stars/moamenmahmoud?style=social" alt="GitHub stars"/>
-  </a>
-  <a href="https://github.com/moamenmahmoud?tab=followers">
-    <img src="https://img.shields.io/github/followers/moamenmahmoud?style=social" alt="GitHub followers"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0d1117,00ff00&height=150&section=header&text=MOAMEN+MAHMOUD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=45&desc=RED+TEAM+OPERATOR&descAlign=50&descAlignY=65&descFontSize=22" alt="Cyber Header" />
 </p>
 
 ---
