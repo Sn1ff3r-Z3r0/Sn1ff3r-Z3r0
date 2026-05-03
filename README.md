@@ -1,6 +1,6 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=00ff00&center=true&vCenter=true&width=480&lines=INITIATING+RECON...;IDENTITY:+Moamen+Mahmoud;ROLE:+Red+Team+Operator;STATUS:+ACTIVE&cursor=true&cursorColor=00ff00" alt="Recon Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00ff00&center=true&vCenter=true&width=460&lines=>+SYSTEM+BOOT+COMPLETE...;>+IDENTITY:+MOAMEN+MAHMOUD;>+ROLE:+RED+TEAM+OPERATOR;>+STATUS:+OPERATIONAL&cursor=true&cursorColor=00ff00" alt="Hacker Init Animation" />
 </p>
 
 <p align="center">
@@ -74,31 +74,6 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
   <img src="https://img.shields.io/badge/🔓_Visibility-Public-8250df?style=flat-square" alt="Visibility"/>
   <img src="https://img.shields.io/badge/🔄_Updates-Regular-007ACC?style=flat-square" alt="Updates"/>
 </p>
-
----
-
-## 🏅 GitHub Milestones
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🌟_Starstruck-Top_10%_Stars-F1E05A?style=for-the-badge" alt="Starstruck" />
-      <br/><sub>Repository Recognition</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🤝_Collaborator-Team_Player-FF69B4?style=for-the-badge" alt="Collaborator" />
-      <br/><sub>Open Source Ready</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🚀_Quickdeploy-Consistent_Updates-007ACC?style=for-the-badge" alt="Deployer" />
-      <br/><sub>Active Development</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🔐_Security_Focus-Red_Team_Ready-2ea44f?style=for-the-badge" alt="Security" />
-      <br/><sub>Cyber Operations</sub>
-    </td>
-  </tr>
-</table>
-<p align="center"><sub>📈 Tracking real-time contributions & network growth on GitHub...</sub></p>
 
 ---
 
