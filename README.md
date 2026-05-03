@@ -1,6 +1,6 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Moamen+Mahmoud;Cybersecurity+Red+Teamer&cursor=true&cursorColor=00ff00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=00ff00&center=true&vCenter=true&width=480&lines=INITIATING+RECON...;IDENTITY:+Moamen+Mahmoud;ROLE:+Red+Team+Operator;STATUS:+ACTIVE&cursor=true&cursorColor=00ff00" alt="Recon Animation" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Offensive Arsenal
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -77,10 +77,28 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-## 🏅 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moamenmahmoud&theme=radical&row=1&column=6&hide_border=true" alt="Trophies" onerror="this.style.display='none'"/>
-</p>
+## 🏅 GitHub Milestones
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🌟_Starstruck-Top_10%_Stars-F1E05A?style=for-the-badge" alt="Starstruck" />
+      <br/><sub>Repository Recognition</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🤝_Collaborator-Team_Player-FF69B4?style=for-the-badge" alt="Collaborator" />
+      <br/><sub>Open Source Ready</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🚀_Quickdeploy-Consistent_Updates-007ACC?style=for-the-badge" alt="Deployer" />
+      <br/><sub>Active Development</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🔐_Security_Focus-Red_Team_Ready-2ea44f?style=for-the-badge" alt="Security" />
+      <br/><sub>Cyber Operations</sub>
+    </td>
+  </tr>
+</table>
+<p align="center"><sub>📈 Tracking real-time contributions & network growth on GitHub...</sub></p>
 
 ---
 
