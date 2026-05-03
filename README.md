@@ -1,6 +1,6 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&speed=40&pause=1500&color=00ff00&center=true&vCenter=true&width=500&lines=>+INITIALIZING+SECURE+SESSION...;>+OPERATIVE:+MOAMEN+MAHMOUD;>+CLEARANCE:+RED+TEAM;>+STATUS:+AUTHORIZED&cursor=true&cursorColor=00ff00" alt="Cyber Init Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&speed=50&pause=1000&color=00ff00&center=true&vCenter=true&width=450&lines=This+is+a+great+string.;But+here+is+a+better+one.&cursor=true&cursorColor=00ff00" alt="Typing Animation" />
 </p>
 
 ---
