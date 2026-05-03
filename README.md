@@ -1,6 +1,6 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient:0d1117,002200&text=MOAMEN+MAHMOUD&fontAlign=50&fontAlignY=45&fontSize=45&fontColor=00ff00&animation=fadeIn&section=header&desc=RED+TEAM+OPERATOR&descAlign=50&descAlignY=65&descFontSize=20&descFontColor=ffffff&reversal=false" alt="Cyber Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=130&color=gradient:0d1117,001a00&text=MOAMEN+MAHMOUD&fontSize=42&fontColor=00ff00&animation=twinkling&section=header&desc=RED+TEAM+OPERATOR&descAlign=50&descAlignY=65&descFontSize=20&descFontColor=00cc00&stroke=00ff00&strokeWidth=1.5" alt="Cyber Header" />
 </p>
 
 ---
