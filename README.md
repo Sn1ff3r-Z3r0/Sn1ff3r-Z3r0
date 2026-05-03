@@ -14,12 +14,12 @@
 
 ---
 
-<h2 align="center">🛡️ Profile Brief</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">🛡️ Profile Brief</h2>
 Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration testing experience. Specialized in executing full-spectrum attack lifecycles—from OSINT-driven reconnaissance to post-exploitation—using industry-standard frameworks. Methodical, analytical, and focused on ethical hacking to strengthen system defenses against evolving threats.
 
 ---
 
-<h2 align="center">⚔️ Offensive Capabilities</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">⚔️ Offensive Capabilities</h2>
 🔴 **Network Penetration Testing** & Vulnerability Assessment  
 📡 **Wireless Security Auditing** & Protocol Analysis (Aircrack-ng, Bettercap)  
 🕵️ **OSINT & Reconnaissance** (theHarvester, Maltego, Sherlock, PeekYou)  
@@ -30,8 +30,8 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-<h2 align="center">🧰 Offensive Arsenal</h2>
-<p align="center">
+<div align="center" style="background:#0d1117; border:1px solid #00ff0040; border-radius:10px; padding:18px; margin:20px 0; box-shadow:0 0 12px rgba(0,255,0,0.12);">
+  <h2 style="color:#00ff00; font-weight:600; margin-top:0; margin-bottom:14px;">🧰 Offensive Arsenal</h2>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
@@ -45,11 +45,11 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
   <img src="https://img.shields.io/badge/-Bettercap-5C4EE5?style=flat&logoColor=white" alt="Bettercap"/>
   <img src="https://img.shields.io/badge/-Aircrack--ng-262A30?style=flat&logoColor=white" alt="Aircrack-ng"/>
   <img src="https://img.shields.io/badge/-Hashcat-000000?style=flat&logoColor=white" alt="Hashcat"/>
-</p>
+</div>
 
 ---
 
-<h2 align="center">📚 Active Development</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">📚 Active Development</h2>
 🔹 Advanced Exploitation Techniques & Privilege Escalation  
 🔹 Web Application Security & OWASP Top 10  
 🔹 Active Directory Attacks & Enterprise Pentesting  
@@ -57,7 +57,7 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-<h2 align="center">🎯 Mission Objectives</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">🎯 Mission Objectives</h2>
 🚀 Transition into a professional Penetration Tester role  
 🧠 Master end-to-end Red Team operations & threat simulation  
 🏆 Compete in CTF competitions & bug bounty programs  
@@ -65,19 +65,19 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-<h2 align="center">⚡ Primary Languages & Metrics</h2>
-<p align="center">
+<div align="center" style="background:#0d1117; border:1px solid #00ff0040; border-radius:10px; padding:18px; margin:20px 0; box-shadow:0 0 12px rgba(0,255,0,0.12);">
+  <h2 style="color:#00ff00; font-weight:600; margin-top:0; margin-bottom:14px;">⚡ Primary Languages & Metrics</h2>
   <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <br/>
   <img src="https://img.shields.io/badge/✅_Status-Active-2ea44f?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/🔓_Visibility-Public-8250df?style=flat-square" alt="Visibility"/>
   <img src="https://img.shields.io/badge/🔄_Updates-Regular-007ACC?style=flat-square" alt="Updates"/>
-</p>
+</div>
 
 ---
 
-<h2 align="center">📡 Secure Channels</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">📡 Secure Channels</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-mahmoud-995506392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -92,7 +92,7 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-<h2 align="center">🔐 Core Philosophy</h2>
+<h2 align="center" style="color:#00ff00; font-weight:600;">🔐 Core Philosophy</h2>
 > *"Break it. Understand it. Secure it."*
 
 <p align="center">
