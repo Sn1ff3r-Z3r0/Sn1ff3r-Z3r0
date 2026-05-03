@@ -65,7 +65,7 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
 
 ---
 
-## 📊 Repository Metrics
+## 📈 GitHub Snapshot
 <p align="center">
   <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -73,6 +73,16 @@ Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration 
   <img src="https://img.shields.io/badge/✅_Status-Active-2ea44f?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/🔓_Visibility-Public-8250df?style=flat-square" alt="Visibility"/>
   <img src="https://img.shields.io/badge/🔄_Updates-Regular-007ACC?style=flat-square" alt="Updates"/>
+</p>
+
+---
+
+## 📜 Certifications & Training
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Beginner%20Paths%20Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/EDUX_Academy-Lab-Based%20Training-0078D4?style=for-the-badge" alt="EDUX Academy" />
+  <img src="https://img.shields.io/badge/eJPT-In%20Progress-00B4D8?style=for-the-badge" alt="eJPT" />
+  <img src="https://img.shields.io/badge/CompTIA_Sec%2B-Target-ED1D24?style=for-the-badge" alt="Security+" />
 </p>
 
 ---
