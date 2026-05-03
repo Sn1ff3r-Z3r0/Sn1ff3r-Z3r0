@@ -75,8 +75,9 @@
   <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <br/>
-  <img src="https://img.shields.io/github/last-commit/moamenmahmoud/moamenmahmoud?style=flat-square&label=Last%20Update" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/repo-size/moamenmahmoud/moamenmahmoud?style=flat-square&label=Repo%20Size" alt="Repo Size"/>
+  <img src="https://img.shields.io/badge/✅_Profile_Status-Active-2ea44f?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/🔓_Visibility-Public-8250df?style=flat-square" alt="Visibility"/>
+  <img src="https://img.shields.io/badge/🔄_Updates-Regular-blue?style=flat-square" alt="Updates"/>
 </p>
 
 ---
