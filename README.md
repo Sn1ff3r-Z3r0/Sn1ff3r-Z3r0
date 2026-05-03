@@ -12,44 +12,88 @@
   </a>
 </p>
 
-## 🚀 About Me
-Cybersecurity Red Teamer with over 7 months of hands-on experience in penetration testing and red team operations, developed through intensive practical training in controlled lab environments. Proficient in conducting network scanning, vulnerability assessments, wireless security testing, and open-source intelligence (OSINT) gathering to identify and analyze security weaknesses across systems and networks.
+---
 
-Experienced in working with industry-standard tools and frameworks including Metasploit, Nmap, Wireshark, Bettercap, Aircrack-ng, and Social Engineering Toolkit (SET) to simulate real-world attack scenarios. Demonstrates solid understanding of Linux and Windows administration, networking concepts, and common security vulnerabilities.
+## 👨‍💻 About Me
 
-Capable of executing full attack lifecycles, from reconnaissance and enumeration to exploitation and post-exploitation, while maintaining a structured and methodical approach. Strong analytical and problem-solving skills combined with the ability to learn independently, adapt quickly, and collaborate effectively within a team. Passionate about ethical hacking and continuously improving practical cybersecurity skills to stay aligned with evolving threats and industry standards.
+🔭 I'm currently working on improving my skills as a Cybersecurity Red Teamer  
+🌱 I'm currently learning Cybersecurity, Penetration Testing, and Red Teaming  
+💬 Ask me about Networking, Linux, OSINT, and Ethical Hacking  
+⚡ Fun fact: I am a Gamer 🎮 and an active CTF Player 🏴‍☠️
+
+---
+
+## 🛠️ Skills & Tools
+
+* 🔐 Penetration Testing & Red Teaming
+* 🌐 Network Scanning & Enumeration (Nmap)
+* 📡 Wireless Security (Aircrack-ng, Bettercap)
+* 🕵️ OSINT & Reconnaissance
+* 🧰 Tools: Metasploit, Wireshark, SET
+* 🐧 Linux & 🪟 Windows Administration
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-414753?style=flat&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Bettercap](https://img.shields.io/badge/-Bettercap-5C4EE5?style=flat&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-262A30?style=flat&logoColor=white)
-![Hashcat](https://img.shields.io/badge/-Hashcat-000000?style=flat&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-<!-- Add more badges from: https://github.com/Ileriayo/markdown-badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/-Nmap-414753?style=flat&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp"/>
+  <img src="https://img.shields.io/badge/-Bettercap-5C4EE5?style=flat&logoColor=white" alt="Bettercap"/>
+  <img src="https://img.shields.io/badge/-Aircrack--ng-262A30?style=flat&logoColor=white" alt="Aircrack-ng"/>
+  <img src="https://img.shields.io/badge/-Hashcat-000000?style=flat&logoColor=white" alt="Hashcat"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-## 📊 GitHub Stats
+---
+
+## 📚 Currently Learning
+
+* Advanced Exploitation Techniques
+* Privilege Escalation
+* Web Application Security
+* Active Directory Attacks
+
+---
+
+## 🎯 Goals
+
+* 🚀 Become a professional Penetration Tester
+* 🧠 Master Red Team operations
+* 🏆 Participate in more CTF competitions
+* 🔧 Build my own security tools
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moamenmahmoud&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&cacheSeconds=3600" onerror="this.src='https://img.shields.io/badge/📊_GitHub_Stats-View_Repository-blue?style=for-the-badge'" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenmahmoud&layout=compact&theme=radical&langs_count=2&hide_border=true&cacheSeconds=3600" onerror="this.src='https://img.shields.io/badge/📊_Top_Langs-Python_90%25_%7C_Bash_10%25-2496ED?style=for-the-badge'" />
+  <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <br/>
+  <img src="https://img.shields.io/github/last-commit/moamenmahmoud/moamenmahmoud?style=flat-square&label=Last%20Update" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/repo-size/moamenmahmoud/moamenmahmoud?style=flat-square&label=Repo%20Size" alt="Repo Size"/>
 </p>
-<p align="center">
-  <sub>🐍 <b>Python:</b> 90%  |  🐚 <b>Bash/Shell:</b> 10%</sub>
-</p>
+
+---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moamenmahmoud&theme=radical&row=1&column=6&hide_border=true" onerror="this.style.display='none'" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moamenmahmoud&theme=radical&row=1&column=6&hide_border=true" alt="Trophies" onerror="this.style.display='none'"/>
 </p>
 
+---
+
 ## 📫 Connect With Me
+
+* 📧 Gmail: [moamen13477@gmail.com](mailto:moamen13477@gmail.com)
+* 📧 Outlook: [moamen134777@outlook.com](mailto:moamen134777@outlook.com)
+* 🔗 LinkedIn: [linkedin.com/in/moamen-mahmoud-995506392](https://www.linkedin.com/in/moamen-mahmoud-995506392/)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-mahmoud-995506392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -61,6 +105,12 @@ Capable of executing full attack lifecycles, from reconnaissance and enumeration
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
 </p>
+
+---
+
+## 🧠 Philosophy
+
+> *"Break it. Understand it. Secure it."* 🔐
 
 ---
 
