@@ -1,6 +1,6 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=130&color=gradient:0d1117,001a00&text=MOAMEN+MAHMOUD&fontSize=42&fontColor=00ff00&animation=twinkling&section=header&desc=RED+TEAM+OPERATOR&descAlign=50&descAlignY=65&descFontSize=20&descFontColor=00cc00&stroke=00ff00&strokeWidth=1.5" alt="Cyber Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&speed=40&pause=1500&color=00ff00&center=true&vCenter=true&width=500&lines=>+INITIALIZING+SECURE+SESSION...;>+OPERATIVE:+MOAMEN+MAHMOUD;>+CLEARANCE:+RED+TEAM;>+STATUS:+AUTHORIZED&cursor=true&cursorColor=00ff00" alt="Cyber Init Animation" />
 </p>
 
 ---
