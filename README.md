@@ -14,24 +14,22 @@
 
 ---
 
-## 🛡️ Professional Profile
-
-🎯 Focused on advancing Red Team operations & penetration testing methodologies  
-📚 Actively studying Advanced Exploitation, Active Directory attacks, and Web App Security  
-💡 Ask me about Network Defense, OSINT gathering, Linux administration, and Ethical Hacking  
+## 📌 Overview
+| 🎯 Focus | 📚 Learning | 💡 Ask Me About |
+|----------|-------------|-----------------|
+| Red Team Ops & Pen Testing | AD Attacks & Web App Sec | OSINT, Network Defense, Linux/Windows Admin |
 
 ---
 
-## 🔍 Core Competencies & Tools
+## 🛡️ Skills & Competencies
+- ⚔️ Penetration Testing & Red Teaming
+- 📡 Network Scanning & Enumeration (Nmap)
+- 📶 Wireless Security (Aircrack-ng, Bettercap)
+- 🔎 OSINT & Reconnaissance
+- 🧩 Tools: Metasploit, Wireshark, SET
+- 🖥️ Linux & Windows Administration
 
-* ⚔️ Penetration Testing & Red Teaming
-* 📡 Network Scanning & Enumeration (Nmap)
-* 📶 Wireless Security (Aircrack-ng, Bettercap)
-* 🔎 OSINT & Reconnaissance
-* 🧩 Tools: Metasploit, Wireshark, SET
-* 🖥️ Linux & Windows Administration
-
-## 💻 Technical Arsenal
+## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -50,26 +48,24 @@
 
 ---
 
-## 📖 Ongoing Studies
-
-* Advanced Exploitation Techniques
-* Privilege Escalation
-* Web Application Security
-* Active Directory Attacks
-
----
-
-## 🚀 Career Objectives
-
-* 🎖️ Become a professional Penetration Tester
-* 🧠 Master Red Team operations & threat simulation
-* 🏆 Participate in competitive CTF events
-* 🛠️ Develop custom security & automation tools
+## 📖 Current Focus
+- 🔹 Advanced Exploitation Techniques
+- 🔹 Privilege Escalation
+- 🔹 Web Application Security
+- 🔹 Active Directory Attacks
 
 ---
 
-## 📈 Repository Metrics
+## 🚀 Roadmap
+| Short-Term | Long-Term |
+|------------|-----------|
+| ✅ Master lab-based attack lifecycles | 🎖️ Professional Penetration Tester |
+| 📚 Deepen AD & Web App knowledge | 🧠 Lead Red Team operations |
+| 🏆 Compete in CTF challenges | 🛠️ Build open-source security tools |
 
+---
+
+## 📈 Repository Status
 <p align="center">
   <img src="https://img.shields.io/badge/🐍_Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/🐚_Bash-10%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -81,19 +77,14 @@
 
 ---
 
-## 🏅 GitHub Achievements
+## 🏅 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=moamenmahmoud&theme=radical&row=1&column=6&hide_border=true" alt="Trophies" onerror="this.style.display='none'"/>
 </p>
 
 ---
 
-## 📬 Let's Collaborate
-
-* 📧 Gmail: [moamen13477@gmail.com](mailto:moamen13477@gmail.com)
-* 📧 Outlook: [moamen134777@outlook.com](mailto:moamen134777@outlook.com)
-* 🔗 LinkedIn: [linkedin.com/in/moamen-mahmoud-995506392](https://www.linkedin.com/in/moamen-mahmoud-995506392/)
-
+## 📬 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-mahmoud-995506392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -108,11 +99,7 @@
 
 ---
 
-## 💭 Core Philosophy
-
-> *"Break it. Understand it. Secure it."* 🔐
-
----
+> 💭 *"Break it. Understand it. Secure it."* 🔐
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moamenmahmoud&color=blueviolet&style=flat-square" alt="Profile views" />
