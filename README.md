@@ -1,6 +1,6 @@
 <!-- Your GitHub profile README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00ff00&center=true&vCenter=true&width=460&lines=>+SYSTEM+BOOT+COMPLETE...;>+IDENTITY:+MOAMEN+MAHMOUD;>+ROLE:+RED+TEAM+OPERATOR;>+STATUS:+OPERATIONAL&cursor=true&cursorColor=00ff00" alt="Hacker Init Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&width=480&lines=>+INITIALIZING+SECURE+SESSION...;>+OPERATIVE:+MOAMEN+MAHMOUD;>+CLEARANCE:+RED+TEAM;>+STATUS:+AUTHORIZED&cursor=true&cursorColor=00ff00" alt="Cyber Init Animation" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 <h2 align="center" style="color:#00ff00; font-weight:600;">🛡️ Profile Brief</h2>
-Cybersecurity Red Teamer with **7+ months** of intensive, lab-based penetration testing experience. Specialized in executing full-spectrum attack lifecycles—from OSINT-driven reconnaissance to post-exploitation—using industry-standard frameworks. Methodical, analytical, and focused on ethical hacking to strengthen system defenses against evolving threats.
+Cybersecurity Red Teamer with 7+ months of intensive, lab-based penetration testing experience. Specialized in executing full-spectrum attack lifecycles—from OSINT-driven reconnaissance to post-exploitation—using industry-standard frameworks. Methodical, analytical, and focused on ethical hacking to strengthen system defenses against evolving threats.
 
 ---
 
